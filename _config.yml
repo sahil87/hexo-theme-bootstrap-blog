@@ -3,6 +3,7 @@ navbar_brand: false
 menu:
   Home: index.html
   Archives: archives/
+  Quotes: quotes/
 rss: /atom.xml
 
 # Content
@@ -13,23 +14,21 @@ fancybox: false
 widgets:
 - about         # See also: `about_content`
 - category
-- tag
+#- tag
 - tagcloud
 - archive
 - recent_posts
 about_widget_content: >
-  <p>Etiam porta <em>sem malesuada magna</em> mollis euismod.
-  Cras mattis consectetur purus sit amet fermentum. Aenean
-  lacinia bibendum nulla sed consectetur.</p>
+  I am an atheist, a thinker, a problem sniffer, a music nerd, a free software advocate, a bathroom singer, a photographer, a chess player, an  idiot, and alive.
 
 # widget behavior
 archive_type: 'monthly'
 show_count: true
 
 # Miscellaneous
-google_analytics:
-favicon:
-twitter_id:
-google_plus:
+google_analytics: UA-87967706-1
+favicon: /favicon.ico
+twitter_id: _sahilahuja
+google_plus: https://plus.google.com/u/0/+SahilAhujaGoogle
 fb_admins:
 fb_app_id:
